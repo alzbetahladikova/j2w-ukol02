@@ -9,7 +9,16 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
-<body style="background-image: url(https://source.unsplash.com/RFHFV7lVQBY/1600x900);">
-<blockquote><strong>Debugging</strong> /de·bugh·ing/ <em>verb</em><br/>The Classic Mystery Game where you are the detective, the victim, and the murderer.</blockquote>
+<body >
+<blockquote>
+    Váš citát pro tento okamžik: "${text}
+
+    <!--doplnit načtení textu -->
+
+    "<br>
+
+    <small> Usmějte se také prosím.</small>
+
+</blockquote>
 </body>
 </html>
