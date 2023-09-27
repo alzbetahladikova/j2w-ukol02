@@ -9,15 +9,12 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
-<body >
+<body  style="background-image: url(https://source.unsplash.com/${pozadi}/1600x900)">
 <blockquote>
-    Váš citát pro tento okamžik: "${text}
+    Váš citát pro tento okamžik:<br>
+    "${text}"
 
-    <!--doplnit načtení textu -->
-
-    "<br>
-
-    <small> Usmějte se také prosím.</small>
+    <p><small> Usmějte se také prosím.</small></p>
 
 </blockquote>
 </body>
