@@ -34,9 +34,6 @@ public class MainController {
         }
     }
 
-
-
-
     @GetMapping("/")
     public ModelAndView text() throws IOException {
         List<String> radky = readAllLines("citaty.txt");
